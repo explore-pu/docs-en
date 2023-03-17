@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,Q as l}from"./chunks/framework.716bc990.js";const i=JSON.parse('{"title":"Form layout","description":"","frontmatter":{},"headers":[],"relativePath":"guide/model-form-layout.md"}'),o={name:"guide/model-form-layout.md"},p=l("",6),e=[p];function t(c,F,D,r,y,A){return n(),a("div",null,e)}const d=s(o,[["render",t]]);export{i as __pageData,d as default};

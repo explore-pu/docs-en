@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as o,Q as a}from"./chunks/framework.716bc990.js";const y=JSON.parse('{"title":"Hot keys","description":"","frontmatter":{},"headers":[],"relativePath":"guide/model-grid-hotkeys.md"}'),s={name:"guide/model-grid-hotkeys.md"},d=a("",6),r=[d];function n(p,c,i,l,h,_){return e(),o("div",null,r)}const u=t(s,[["render",n]]);export{y as __pageData,u as default};
