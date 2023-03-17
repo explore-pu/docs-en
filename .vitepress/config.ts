@@ -26,8 +26,8 @@ export default defineConfig({
 
   locales: {
     root: { label: 'English' },
-    cn1: { label: '简体中文（GitHub）', link: 'https://elegant-admin.github.io/docs-cn/' },
-    cn2: { label: '简体中文（码云）', link: 'http://elegant-admin.gitee.io/docs-cn/' },
+    cn1: { label: '简体中文（GitHub）', link: 'https://elegant-admin.github.io/docs-cn' },
+    cn2: { label: '简体中文（码云）', link: 'https://elegant-admin.gitee.io/docs-cn' },
   },
 
   vue: {
